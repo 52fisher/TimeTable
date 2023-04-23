@@ -1,0 +1,280 @@
+:root {
+  --hsize: 56px;
+  --wsize: 80px;
+  --insize: 20px;
+  --inpadding: 2px;
+}
+.header {
+  float: right;
+  right: 100px;
+  width: 240px;
+  height: 200px;
+  position: absolute;
+  text-align: center;
+  user-select: none;
+}
+.header .tips {
+  position: relative;
+}
+.header .tips_title {
+  height: 60px;
+  background-color: #d74b4b;
+  text-align: center;
+  font-size: 2em;
+  color: #fff;
+  line-height: 60px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.header .tips_content {
+  background-color: rgb(246, 246, 246, 0.6);
+  border-bottom: 1px solid #9f9fa1;
+  border-left: 1px solid #9f9fa1;
+  border-right: 1px solid #9f9fa1;
+  height: 140px;
+  font-size: 1.2em;
+  padding: 5px;
+  backdrop-filter: blur(6px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header .countdown {
+  /* height:160px; */
+  width: auto;
+  color: #fff;
+  padding: 5px;
+  text-align: center;
+  margin: 10px auto;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  /* background: linear-gradient(70deg, #042342, #04c196); */
+  background: url(./countdown.jpg) 100% 100%;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset; */
+}
+.header .countdown_content {
+  color: #fff;
+  width: 200px;
+  margin: 0 auto;
+}
+.header .countdown_content span {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.header .countdown_content div {
+  display: inline-block;
+  padding: 5px;
+  margin: 5px;
+}
+.header .countdown_content span {
+  content: "天";
+  color: #fff;
+  display: block;
+  background: #f90e1d;
+  width: 28px;
+  margin: 0 auto;
+}
+.header .countdown_oneword {
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #f0b775;
+  font-weight: bold;
+  background-color: rgba(245, 247, 250, 0.5);
+  backdrop-filter: blur(6px);
+}
+.header .math_class {
+  /* float: right;
+    right: 100px;
+    top:300px; */
+  margin-top: 20px;
+  /* position: absolute; */
+  /* text-align: center; */
+  transform: rotate(15deg);
+  border-radius: 200px;
+}
+.header .math_class img {
+  width: 100px;
+  height: auto;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+}
+/* 工具栏 */
+.tool_bar {
+  float: right;
+  right: 40px;
+}
+.tool_bar .setting,
+.tool_bar .exchange {
+  width: 40px;
+  height: 40px;
+  background-color: #f38181;
+  border-radius: 30px;
+  text-align: center;
+  display: flex;
+  margin: 5px auto;
+}
+.tool_bar svg {
+  align-self: center;
+  fill: #fff;
+  margin: 0 auto;
+}
+.tool_bar .setting:hover,
+.tool_bar .exchange:hover {
+  background-color: #ff2e63;
+}
+
+/* 设置面板 */
+.setting_pannel {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 800px;
+  height: auto;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 5px;
+  padding: 10px;
+}
+/* .setting_pannel ul{
+    list-style: none;
+  } */
+.setting_pannel .list-item {
+  /* display:flex; */
+  margin-right: 10px;
+  display: inline-block;
+  margin: 5px;
+  min-width: 300px;
+}
+.setting_pannel input {
+  padding: var(--inpadding) 2px;
+  height: var(--insize);
+  max-width: 300px;
+  min-width: 140px;
+  border: 1px solid #e6e6e6;
+  position: relative;
+}
+.setting_pannel .course_list {
+  
+}
+.setting_pannel input:hover {
+  border: 1px solid #2bbbd8;
+  box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em,
+    rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+}
+.setting_pannel input.plan_name {
+  border: none;
+  max-width: none;
+  min-width: 60px;
+  width:60px;
+  background-color: transparent;
+  outline: none;
+  font-size: 16px;
+}
+.setting_pannel button {
+  width: 60px;
+  outline: 0;
+  margin-left: 5px;
+  border: 0;
+  color: #fff;
+  box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+  padding: 5px 2px;
+}
+.setting_pannel #change_schedule {
+  /* background-color: #2BBBD8; */
+  color: #333;
+}
+.setting_pannel .plan_save {
+  float: right;
+  right: 120px;
+  position: relative;
+  color: #333;
+}
+.setting_pannel .plan_add {
+  background-color: #3dc7be;
+}
+.setting_pannel .plan_add:hover {
+  background-color: #248888;
+}
+.setting_pannel .plan_delete {
+  background-color: #e7475e;
+}
+.setting_pannel .plan_delete:hover {
+  background-color: #c00000;
+}
+.setting_pannel .plan-list {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.setting_pannel .plan_action{
+  padding: 10px
+}
+.setting_pannel .plan_edit{
+  background-color: #50C1E9;
+}
+.setting_pannel .plan_edit:hover{
+  background-color: #2E94B9;
+}
+.setting_pannel .list-item select {
+  width: 180px;
+  border: 1px solid #999;
+  height: 30px;
+  padding: 5px 10px;
+}
+.setting_pannel .icon {
+  width: calc(var(--insize) + var(--inpadding));
+  height: calc(var(--insize) + var(--inpadding));
+  vertical-align: middle;
+}
+.setting_pannel span {
+  margin-right: 20px;
+}
+.plantip_top {
+  /* Modify size here: */
+  --size: calc(var(--hsize));
+  --padding: 5px;
+  position: absolute;
+  width: calc(var(--wsize) * 1.5 - var(--padding));
+  height: calc(var(--size) / 1.5);
+  transform: translate(calc(var(--wsize)  - var(--size)), -100%);
+  background: rgba(0, 0, 0, 0.8);
+  padding: var(--padding);
+  z-index: 999;
+  display:inline-block;
+  text-align: center;
+  line-height:2em;
+  color: #fff;
+}
+
+.plantip_top:after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%);
+  height: 0px;
+  width: 0px;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 8px solid rgba(0, 0, 0, 0.8);
+  z-index: 9999;
+}
+
+.class_alert {
+  margin: 0 auto;
+  float: none;
+  left: 50% !important;
+  top: 50% !important;
+  transform: translate(-50%, -50%) !important;
+  position: fixed !important;
+  z-index: 9999;
+}
+
+.class_alert > img {
+  width: 800px !important;
+  height: auto;
+}
