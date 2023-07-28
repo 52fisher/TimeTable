@@ -3,8 +3,8 @@
 VUE实现的课程表
 
 ![图片](https://github.com/52fisher/TimeTable/assets/32198215/50b1236b-85e3-4a05-9830-80a68c7dd503)
-
-![图片](https://github.com/52fisher/TimeTable/assets/32198215/b23bdfe2-18d0-4f48-a55d-3c6805cafa2f)
+![图片](https://github.com/52fisher/TimeTable/assets/32198215/0e57f9e4-c302-462a-88e9-69d9e9a066db)
+**注意：使用前请先在设置中导入默认课程**
  
 ## Introduction
  - 支持课前提醒，课前提醒时间可自行设置
