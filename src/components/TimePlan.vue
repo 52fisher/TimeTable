@@ -111,12 +111,10 @@ export default {
             this.tsConfig.cMin = ~~cMin;
             this.tsConfig.top = top;
             this.tsConfig.left = left;
+            // this.tsShow = true;
             this.cevent = event;
-            // console.log("配置", this.tsConfig);
-            // this.$emit('show-time-select',config)
-            // console.log(this.$emit)
-            // console.log(this.$parent)
-            // this.$parent.showTimeSelect(config);
+            this.$refs.tsShow.showTs(this.tsConfig);
+
         }, getOffsetTop(elem) {
             var offsetTop = 0;
             do {
