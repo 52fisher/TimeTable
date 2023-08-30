@@ -14,7 +14,7 @@ import TimeCountDown from '../components/TimeCountDown.vue';
 </script>
 <style>
 .container {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
     text-align: center;
 }

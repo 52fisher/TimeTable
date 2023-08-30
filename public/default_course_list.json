@@ -1,0 +1,871 @@
+[
+  [
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 1,
+      "day": 0,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 1,
+      "day": 1,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 1,
+      "day": 2,
+      "weekType": 0,
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 1,
+      "day": 3,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 1,
+      "day": 4,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 1,
+      "day": 5,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 1,
+      "day": 6,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    }
+  ],
+  [
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 2,
+      "day": 0,
+      "weekType": "0",
+      "currentWeek": true,
+      "color": "",
+      "bgcolor": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 2,
+      "day": 1,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 2,
+      "day": 2,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 2,
+      "day": 3,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "数学(2)",
+      "teacher": "",
+      "position": "9(2)",
+      "section": 2,
+      "day": 4,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "#ff8a80",
+      "color": "#af3a30"
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 2,
+      "day": 5,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 2,
+      "day": 6,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    }
+  ],
+  [
+    {
+      "name": "数学(2)",
+      "teacher": "",
+      "position": "9(2)",
+      "section": 3,
+      "day": 0,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "#ff8a80",
+      "color": "#af3a30"
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 3,
+      "day": 1,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "数学(1)",
+      "teacher": "",
+      "position": "9(1)",
+      "section": 3,
+      "day": 2,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "#87cefa",
+      "color": "#377eaa"
+    },
+    {
+      "name": "数学(1)",
+      "teacher": "",
+      "position": "9(1)",
+      "section": 3,
+      "day": 3,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "#87cefa",
+      "color": "#377eaa"
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 3,
+      "day": 4,
+      "weekType": "0",
+      "currentWeek": true,
+      "color": "",
+      "bgcolor": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 3,
+      "day": 5,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 3,
+      "day": 6,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    }
+  ],
+  [
+    {
+      "name": "数学(1)",
+      "teacher": "",
+      "position": "9(1)",
+      "section": 4,
+      "day": 0,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "#87cefa",
+      "color": "#377eaa"
+    },
+    {
+      "name": "数学(1)",
+      "teacher": "",
+      "position": "9(1)",
+      "section": 4,
+      "day": 1,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "#87cefa",
+      "color": "#377eaa"
+    },
+    {
+      "name": "数学(2)",
+      "teacher": "",
+      "position": "9(2)",
+      "section": 4,
+      "day": 2,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "#ff8a80",
+      "color": "#af3a30"
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 4,
+      "day": 3,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "数学(1)",
+      "teacher": "",
+      "position": "9(1)",
+      "section": 4,
+      "day": 4,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "#87cefa",
+      "color": "#377eaa"
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 4,
+      "day": 5,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 4,
+      "day": 6,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    }
+  ],
+  [
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 5,
+      "day": 0,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "数学(2)",
+      "teacher": "",
+      "position": "9(2)",
+      "section": 5,
+      "day": 1,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "#ff8a80",
+      "color": "#af3a30"
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 5,
+      "day": 2,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 5,
+      "day": 3,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 5,
+      "day": 4,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 5,
+      "day": 5,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 5,
+      "day": 6,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    }
+  ],
+  [
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 6,
+      "day": 0,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 6,
+      "day": 1,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "数学(2)",
+      "teacher": "",
+      "position": "9(2)",
+      "section": 6,
+      "day": 2,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "#ff8a80",
+      "color": "#af3a30"
+    },
+    {
+      "name": "数学(2)",
+      "teacher": "",
+      "position": "9(2)",
+      "section": 6,
+      "day": 3,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "#ff8a80",
+      "color": "#af3a30"
+    },
+    {
+      "name": "数学(1)",
+      "teacher": "",
+      "position": "9(1)",
+      "section": 6,
+      "day": 4,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "#87cefa",
+      "color": "#377eaa"
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 6,
+      "day": 5,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 6,
+      "day": 6,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    }
+  ],
+  [
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 7,
+      "day": 0,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 7,
+      "day": 1,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 7,
+      "day": 2,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 7,
+      "day": 3,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 7,
+      "day": 4,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 7,
+      "day": 5,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 7,
+      "day": 6,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    }
+  ],
+  [
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 8,
+      "day": 0,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 8,
+      "day": 1,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 8,
+      "day": 2,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 8,
+      "day": 3,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 8,
+      "day": 4,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 8,
+      "day": 5,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 8,
+      "day": 6,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    }
+  ],
+  [
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 9,
+      "day": 0,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 9,
+      "day": 1,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 9,
+      "day": 2,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 9,
+      "day": 3,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 9,
+      "day": 4,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 9,
+      "day": 5,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 9,
+      "day": 6,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    }
+  ],
+  [
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 10,
+      "day": 0,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "数学(2)",
+      "teacher": "",
+      "position": "9(2)",
+      "section": 10,
+      "day": 1,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "#ff8a80",
+      "color": "#af3a30"
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 10,
+      "day": 2,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 10,
+      "day": 3,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "数学(2)",
+      "teacher": "",
+      "position": "9(2)",
+      "section": 10,
+      "day": 4,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "#ff8a80",
+      "color": "#af3a30"
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 10,
+      "day": 5,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 10,
+      "day": 6,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    }
+  ],
+  [
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 11,
+      "day": 0,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "数学(1)",
+      "teacher": "",
+      "position": "9(1)",
+      "section": 11,
+      "day": 1,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "#87cefa",
+      "color": "#377eaa"
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 11,
+      "day": 2,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 11,
+      "day": 3,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "数学(1)",
+      "teacher": "",
+      "position": "9(1)",
+      "section": 11,
+      "day": 4,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "#87cefa",
+      "color": "#377eaa"
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 11,
+      "day": 5,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    },
+    {
+      "name": "",
+      "teacher": "",
+      "position": "",
+      "section": 11,
+      "day": 6,
+      "weekType": "0",
+      "currentWeek": true,
+      "bgcolor": "",
+      "color": ""
+    }
+  ]
+]

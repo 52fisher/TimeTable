@@ -117,10 +117,6 @@ export default {
       })
     },setDefaultCourselist(){
       DataConfig.setDefaultCourseList();
-      ElMessage({
-        message: '已成功导入默认课程',
-        type: 'success',
-      })
     }, firstDayConfirm(e) {
       ElMessageBox.confirm('改变每周的起始日会在保存时自动迁移对应日期的课程数据,是否继续?')
         .then(() => {

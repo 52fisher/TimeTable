@@ -1,0 +1,205 @@
+{
+    "alertTime": 20,
+    "schedule": 2,
+    "schedulePlan": [
+        {
+            "timeSpan": [
+                {
+                    "stTime": "09:50",
+                    "endTime": "10:10",
+                    "type": "早读"
+                },
+                {
+                    "stTime": "10:20",
+                    "endTime": "11:00",
+                    "type": "上午"
+                },
+                {
+                    "stTime": "11:10",
+                    "endTime": "11:50",
+                    "type": "上午"
+                },
+                {
+                    "stTime": "12:20",
+                    "endTime": "13:00",
+                    "type": "上午"
+                },
+                {
+                    "stTime": "13:10",
+                    "endTime": "13:50",
+                    "type": "上午"
+                },
+                {
+                    "stTime": "15:50",
+                    "endTime": "16:30",
+                    "type": "下午"
+                },
+                {
+                    "stTime": "16:40",
+                    "endTime": "17:20",
+                    "type": "下午"
+                },
+                {
+                    "stTime": "17:30",
+                    "endTime": "18:30",
+                    "type": "下午"
+                },
+                {
+                    "stTime": "18:40",
+                    "endTime": "19:40",
+                    "type": "下午"
+                },
+                {
+                    "stTime": "20:20",
+                    "endTime": "21:40",
+                    "type": "晚自习"
+                },
+                {
+                    "stTime": "21:40",
+                    "endTime": "23:00",
+                    "type": "晚自习"
+                }
+            ],
+            "courseNumInfo": {
+                "earlyMorning": 1,
+                "morning": 4,
+                "afternoon": 4,
+                "evening": 2
+            },
+            "name": "冬季作息"
+        },
+        {
+            "timeSpan": [
+                {
+                    "stTime": "10:30",
+                    "endTime": "11:00",
+                    "type": "上午"
+                },
+                {
+                    "stTime": "11:20",
+                    "endTime": "11:50",
+                    "type": "上午"
+                },
+                {
+                    "stTime": "12:10",
+                    "endTime": "12:40",
+                    "type": "上午"
+                },
+                {
+                    "stTime": "13:00",
+                    "endTime": "13:40",
+                    "type": "上午"
+                },
+                {
+                    "stTime": "16:00",
+                    "endTime": "16:30",
+                    "type": "下午"
+                },
+                {
+                    "stTime": "16:50",
+                    "endTime": "17:20",
+                    "type": "下午"
+                },
+                {
+                    "stTime": "17:40",
+                    "endTime": "18:10",
+                    "type": "下午"
+                },
+                {
+                    "stTime": "18:30",
+                    "endTime": "19:00",
+                    "type": "下午"
+                },
+                {
+                    "stTime": "21:00",
+                    "endTime": "22:00",
+                    "type": "晚自习"
+                }
+            ],
+            "courseNumInfo": {
+                "earlyMorning": 0,
+                "morning": 4,
+                "afternoon": 4,
+                "evening": 1
+            },
+            "name": "线上教学"
+        },
+        {
+            "timeSpan": [
+                {
+                    "stTime": "09:40",
+                    "endTime": "10:00",
+                    "type": "早读"
+                },
+                {
+                    "stTime": "10:10",
+                    "endTime": "10:50",
+                    "type": "上午"
+                },
+                {
+                    "stTime": "11:00",
+                    "endTime": "11:40",
+                    "type": "上午"
+                },
+                {
+                    "stTime": "12:10",
+                    "endTime": "12:50",
+                    "type": "上午"
+                },
+                {
+                    "stTime": "13:05",
+                    "endTime": "13:45",
+                    "type": "上午"
+                },
+                {
+                    "stTime": "15:50",
+                    "endTime": "16:30",
+                    "type": "下午"
+                },
+                {
+                    "stTime": "16:40",
+                    "endTime": "17:20",
+                    "type": "下午"
+                },
+                {
+                    "stTime": "17:35",
+                    "endTime": "18:35",
+                    "type": "下午"
+                },
+                {
+                    "stTime": "18:45",
+                    "endTime": "19:45",
+                    "type": "下午"
+                },
+                {
+                    "stTime": "20:25",
+                    "endTime": "21:40",
+                    "type": "晚上"
+                },
+                {
+                    "stTime": "21:40",
+                    "endTime": "23:00",
+                    "type": "晚上"
+                }
+            ],
+            "courseNumInfo": {
+                "earlyMorning": 1,
+                "morning": 4,
+                "afternoon": 4,
+                "evening": 2
+            },
+            "name": "春季作息"
+        }
+    ],
+    "courseNumInfo": {
+        "earlyMorning": 1,
+        "morning": 4,
+        "afternoon": 4,
+        "evening": 2
+    },
+    "examTime": "2024-06-18 00:00:00",
+    "termStart": "2023-08-21",
+    "maxWeekdays": 30,
+    "firstDay": 1,
+    "showWeekend": false
+}
